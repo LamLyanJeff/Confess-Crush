@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "MUAHAHAHAH",
+    titleWeb: "Tiêu đề web",
     introTitle: 'Hẽ lou',
     introDesc: `Cùng chơi với mình 1 trò chơi nhá!!! UwU`,
     btnIntro: 'OKEYYYY!!!',
@@ -9,7 +9,7 @@ const CONFIG = {
     btnNo: 'Có gất nhiều :DD',
     question: 'Sao lại thấy dzậy dọ?? UwU',
     btnReply: 'Gửi cho pạn nà <3',
-    reply: 'Vì pạn cute thấy mồ <3333333',
+    reply: 'Vì pạn cute thấy mồ <333333333',
     mess: 'Mình pít mà. Yêu bạn nhiều nhiềuuuuu!!! ><',
     messDesc: 'Sao còn khôm quay lại nhắn cho mình nàaa :33',
     btnAccept: 'Okeyy nuôn <3',
